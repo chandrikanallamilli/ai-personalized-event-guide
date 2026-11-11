@@ -1,0 +1,7 @@
+user_id,event_id,action
+u1,1,like
+u1,3,like
+u1,6,view
+u2,2,like
+u2,7,like
+u3,4,like

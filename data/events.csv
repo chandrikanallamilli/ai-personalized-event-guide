@@ -1,0 +1,9 @@
+event_id,title,category,tags,description
+1,Hyderabad Tech Summit,Technology,ai cloud devops conference,Talks on AI cloud and DevOps
+2,Indie Music Night,Music,live band concert,Local bands live
+3,AWS Community Day,Technology,aws cloud serverless,Hands-on AWS serverless workshops
+4,City Marathon,Sports,running fitness outdoor,10K and half marathon
+5,Startup Pitch Fest,Business,startup networking funding,Founders pitch to investors
+6,Hackathon 24h,Technology,coding hackathon python,Build projects in 24 hours
+7,Classical Dance Evening,Arts,dance culture classical,Traditional dance performances
+8,Kubernetes Meetup,Technology,kubernetes docker devops,Cloud native community meetup
